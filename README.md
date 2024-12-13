@@ -51,7 +51,6 @@ numerology_bot/
 3. Создайте файл `.env` в директории `.venv` и добавьте туда ваши ключи API:
    ```
    TELEGRAM_TOKEN=your_telegram_token
-   MISTRAL_API_KEY=your_mistral_api_key
    ```
 4. Запустите бота:
    ```sh
