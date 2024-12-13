@@ -13,7 +13,6 @@ numerology_bot/
 ├── config.py
 ├── handlers.py
 ├── loading.jpg
-├── mistral_api.py
 ├── numerology.py
 ├── README.md
 ├── requirements.txt
@@ -31,7 +30,6 @@ numerology_bot/
 - `config.py`: Файл конфигурации, где могут храниться дополнительные настройки бота.
 - `handlers.py`: Файл, содержащий обработчики сообщений и команд для бота.
 - `loading.jpg`: Изображение, которое может использоваться для отображения состояния загрузки или обработки.
-- `mistral_api.py`: Модуль для взаимодействия с API Chat.Mistral.AI.
 - `numerology.py`: Модуль для нумерологических расчетов.
 - `README.md`: Файл с описанием проекта, инструкциями по установке и использованию.
 - `requirements.txt`: Файл с зависимостями проекта.
